@@ -1,0 +1,17 @@
+com\mycompany\autoking\Autoking.class
+com\mycompany\autoking\igu\Principal$1.class
+com\mycompany\autoking\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\autoking\igu\AltaAutomovil$2.class
+com\mycompany\autoking\logica\Automovil.class
+com\mycompany\autoking\igu\AltaAutomovil.class
+com\mycompany\autoking\logica\ControladoraLogica.class
+com\mycompany\autoking\igu\Principal$2.class
+com\mycompany\autoking\persistencia\ControladoraPersistencia.class
+com\mycompany\autoking\igu\AltaAutomovil$3.class
+com\mycompany\autoking\logica\Automovil_.class
+com\mycompany\autoking\igu\Principal$3.class
+com\mycompany\autoking\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\autoking\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\autoking\persistencia\AutomovilJpaController.class
+com\mycompany\autoking\igu\AltaAutomovil$1.class
+com\mycompany\autoking\igu\Principal.class
